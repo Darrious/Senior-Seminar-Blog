@@ -5,26 +5,12 @@ date:   2020-08-27 21:34:55 -0400
 categories: ethics philosiphy
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+After listening to the in class discussions and conducting my own research, I have concluded that all ethical theories have some flaw or inconsistency. To me, it seems the search for an ideal ethical system is really a search for a system that "fits the best" as opposed to a system that "fits perfectly". I suppose ethics should not be used to *justify* actions, but instead used to *inform* actions. For me, this is an important thing to keep in mind because we will not always have complete knowledge or context of a situation. 
 
-`YEAR-MONTH-DAY-title.MARKUP`
+There is one interesting ethical system that I did not hear mentioned in class. It is called *negative utilitarianism*. The main idea of negative utilitarianism is that we should minimize the total amount of aggregate suffering, and then, secondarily, maximize the total amount of happiness. I thought this was interesting since most ethical systems work to increase happiness for the individual or for the collective, while this works to reduce suffering. One argument that critics level against the theory is that since humans must be alive to suffer, negative utilitarianism's ultimate goal is to cause the quickest and least painful way of death for all humans. If no one is alive, no one can suffer thus ensuring that the least amount of pain is present in the world. 
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I think *motive utilitarianism* is also interesting. It is a type of utilitarianism that incorporates the motives people have for their actions. These motives are given weights and this is used to decide if an action is right or wrong. If someone does a good act but has immoral motives, then the action would be deemed immoral.
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
