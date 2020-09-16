@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Invasive Software: Pasco County"
+date:   2020-09-15 22:13:00 -0400
+categories: police
+---
+
+I think this is a tough descision to make. If you were to examine this situation through the lens of a ethical system, let's say utilitarianism, it is not very clear. It is hard to tell if this is causing a net negative or a net positive. Based on statistics provided in the article, crime rates for the county did not improve. This might imply a net negative since people are being harrassed and tax payer money is being wasted.
+
+ Sitting at home considering this situation, it is easy for me to say I would not partake in creating this kind of software. At the same time, I may not have a choice. Maybe the alternative is losing my job (fired or let go due to the company going under). Depending on my position in the company, I may try to inform the client of flaws and possible ways to mitigate them.
+
+
+While I as a software developer understand the flaws of this software, I probably do not know the extent to which they will be abused by law enforcement. While there are inherent flaws with the software, a lot of the issues arose because of the police departments policy. They chose to write petty citations for these individuals and harress them independent of the software.
+
+With all these things in mind, it is still hard to come to a decision. I believe that this software and the way it is implemented is immoral, but I think I would still choose to partake in development, especially if my livelihood was on the line.
+
