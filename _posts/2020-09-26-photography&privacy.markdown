@@ -2,7 +2,7 @@
 layout: post
 title:  "Photographs & Privacy"
 date:   2020-09-26 21:33:00 -0400
-categories: police
+categories: photography, privacy
 ---
 
 Unknowingly ending up in the background of a photograph can be unsettling in many cases. I think the context of the photo is important. If the back of my head is visible 30 feet away in a vacation photo, it probably will not bother me. I might be more bothered if a photo is discretely taken of me at the exact moment I spill a hot coffee in my lap. There is spectrum ranging from “I don’t mind” to “that is extremely invasive” although the lines are a bit blurred. There are many shades of grey in between.
